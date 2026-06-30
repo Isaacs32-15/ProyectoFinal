@@ -101,7 +101,7 @@ public class LoginForm {
         JFrame frame = new JFrame("Login - URBE RED");
         frame.setContentPane(new LoginForm().panelPrincipal);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
+        frame.setSize(600, 450);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }

@@ -61,7 +61,7 @@ public class ClasificacionForm {
         JFrame frame = new JFrame("Clasificación y Priorización");
         frame.setContentPane(new ClasificacionForm().panelPrincipal);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
+        frame.setSize(600, 450);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }

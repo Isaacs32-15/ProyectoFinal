@@ -20,14 +20,14 @@ public class ClienteForm {
         btnCrearTicket.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(null, "Funcionalidad pendiente: Crear Ticket");
+                CrearTicketForm.abrir(usuarioLogueado);
             }
         });
 
         btnVerHistorial.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(null, "Funcionalidad pendiente: Ver Historial");
+                HistorialForm.abrir();
             }
         });
 
@@ -55,7 +55,7 @@ public class ClienteForm {
         JFrame frame = new JFrame("Panel Cliente - URBE RED");
         frame.setContentPane(new ClienteForm(usuarioLogueado).panelPrincipal2);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
+        frame.setSize(600, 450);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
