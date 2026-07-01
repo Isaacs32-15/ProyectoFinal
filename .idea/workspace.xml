@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89fdbc68-a700-4a3c-b72a-1cc1ca193ef5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArbolTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CrearTicketForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CrearTicketForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestionarHistorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestionarReportes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestionarSoporte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestionarTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GrafoRelaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HistorialForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HistorialForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NodoTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReportesForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReportesForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Respuesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoporteForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoporteForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ticket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/ClasificacionForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/ClasificacionForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/ClienteForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/ClienteForm$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/ClienteForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/ClienteForm$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/ClienteForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/ClienteForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/LoginForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/LoginForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/OperativoForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/OperativoForm$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/OperativoForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/OperativoForm$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/OperativoForm$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/OperativoForm$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/OperativoForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/OperativoForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/TecnicoForm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/TecnicoForm$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/TecnicoForm$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/TecnicoForm$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/TecnicoForm$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/TecnicoForm$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proyecto/TecnicoForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proyecto/TecnicoForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClasificacionForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClasificacionForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClienteForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClienteForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoginForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperativoForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperativoForm.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperativoForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperativoForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TecnicoForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TecnicoForm.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TecnicoForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TecnicoForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,23 +24,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.864234525852992" />
-      <entry key="MS500" value="5.149808033879018" />
-      <entry key="S2" value="9.251521146296586" />
-      <entry key="S5" value="10.768113300622431" />
-      <entry key="S10" value="11.35919962344736" />
-      <entry key="S30" value="11.7852169705097" />
-      <entry key="S60" value="12.142528044233567" />
-      <entry key="M2" value="14.580183804064227" />
-      <entry key="M5" value="27.06519830608506" />
-      <entry key="M10" value="40.90902246694376" />
-      <entry key="M15" value="48.21576485889239" />
-      <entry key="M30" value="57.62614901093309" />
-      <entry key="H1" value="63.36986518570267" />
-      <entry key="H2" value="66.71759767038212" />
-      <entry key="H4" value="69.43902675606046" />
-      <entry key="D1" value="76.12841087189443" />
-      <entry key="W1" value="78.53445990514885" />
+      <entry key="MS100" value="1.6968834331624165" />
+      <entry key="MS500" value="4.681685848168809" />
+      <entry key="S2" value="8.823718528395037" />
+      <entry key="S5" value="10.538572946136792" />
+      <entry key="S10" value="11.232344186605921" />
+      <entry key="S30" value="11.735651174540541" />
+      <entry key="S60" value="11.921449460387908" />
+      <entry key="M2" value="12.784349219539864" />
+      <entry key="M5" value="19.40342041883653" />
+      <entry key="M10" value="33.46765128934321" />
+      <entry key="M15" value="44.34995571854657" />
+      <entry key="M30" value="62.13981793929394" />
+      <entry key="H1" value="75.09769101530395" />
+      <entry key="H2" value="83.12303927556212" />
+      <entry key="H4" value="88.47983690585936" />
+      <entry key="D1" value="97.58237988251409" />
+      <entry key="W1" value="100.45392938048657" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -86,36 +49,36 @@
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
       <entry key="S30" value="0.0" />
-      <entry key="S60" value="8.892295440915575E-207" />
-      <entry key="M2" value="1.3370365795270303E-103" />
-      <entry key="M5" value="1.2825899519001303E-41" />
-      <entry key="M10" value="8.452472835748594E-21" />
-      <entry key="M15" value="8.173002745308522E-14" />
-      <entry key="M30" value="8.363132110970366E-7" />
-      <entry key="H1" value="0.002727804405939338" />
-      <entry key="H2" value="0.15647292449538688" />
-      <entry key="H4" value="1.1863098506612735" />
-      <entry key="D1" value="6.420206648703039" />
-      <entry key="W1" value="8.57602076136628" />
+      <entry key="S60" value="5.5887859772839645E-211" />
+      <entry key="M2" value="1.059973692730002E-105" />
+      <entry key="M5" value="1.8524587766677845E-42" />
+      <entry key="M10" value="3.2122855436113066E-21" />
+      <entry key="M15" value="4.288136004072487E-14" />
+      <entry key="M30" value="6.057764844200348E-7" />
+      <entry key="H1" value="0.002321586945935833" />
+      <entry key="H2" value="0.14435275036422648" />
+      <entry key="H4" value="1.1394389688967317" />
+      <entry key="D1" value="6.3772165178335705" />
+      <entry key="W1" value="8.567793462978603" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.7705054432853142" />
-      <entry key="MS500" value="5.089576960370717" />
-      <entry key="S2" value="9.215207266575787" />
-      <entry key="S5" value="10.749654095818624" />
-      <entry key="S10" value="11.349156770260228" />
-      <entry key="S30" value="11.781669443941764" />
-      <entry key="S60" value="12.140680974662487" />
-      <entry key="M2" value="14.579000681495266" />
-      <entry key="M5" value="27.06412130387667" />
-      <entry key="M10" value="40.90807795922688" />
-      <entry key="M15" value="48.21493177665845" />
-      <entry key="M30" value="57.6255331590391" />
-      <entry key="H1" value="63.37219240152449" />
-      <entry key="H2" value="66.87380066995074" />
-      <entry key="H4" value="70.62506587725987" />
-      <entry key="D1" value="82.54846428804117" />
-      <entry key="W1" value="87.11045247147081" />
+      <entry key="MS100" value="1.6274021635356644" />
+      <entry key="MS500" value="4.639389953871427" />
+      <entry key="S2" value="8.793137494257406" />
+      <entry key="S5" value="10.52192138030239" />
+      <entry key="S10" value="11.22305481944999" />
+      <entry key="S30" value="11.73231421087725" />
+      <entry key="S60" value="11.919738510326617" />
+      <entry key="M2" value="12.783409583305033" />
+      <entry key="M5" value="19.402781476184057" />
+      <entry key="M10" value="33.467002915635796" />
+      <entry key="M15" value="44.34931083077799" />
+      <entry key="M30" value="62.13925912695886" />
+      <entry key="H1" value="75.0996127942765" />
+      <entry key="H2" value="83.26711290209641" />
+      <entry key="H4" value="89.61900061529967" />
+      <entry key="D1" value="103.95944163159086" />
+      <entry key="W1" value="109.02169430882621" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
