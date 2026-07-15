@@ -56,6 +56,5 @@ public class GestionarSoporte {
         }
 
         ticket.responder(respuesta);
-        ticket.cambiarEstado("FINALIZADO");
     }
 }

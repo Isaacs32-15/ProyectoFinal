@@ -45,13 +45,11 @@ public class ReportesForm {
     }
 
     private void mostrarRelaciones() {
+        grafoRelaciones.construirGrafo(
+                CrearTicketForm.getGestorTickets().listarTickets());
 
         txtResultado.setText(
-                grafoRelaciones.mostrarRelaciones(
-                        CrearTicketForm.getGestorTickets().listarTickets()
-                )
-        );
-
+                grafoRelaciones.mostrarRelaciones());
     }
 
     public static void abrir() {

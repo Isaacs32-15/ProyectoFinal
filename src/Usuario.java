@@ -2,14 +2,14 @@ public class Usuario {
     private int idUsuario;
     private String nombre;
     private String usuario;
-    private String contraseña;
+    private String contrasenia;
     private String rol;
 
-    public Usuario(int idUsuario, String nombre, String usuario, String contraseña, String rol) {
+    public Usuario(int idUsuario, String nombre, String usuario, String contrasenia, String rol) {
         this.idUsuario = idUsuario;
         this.nombre = nombre;
         this.usuario = usuario;
-        this.contraseña = contraseña;
+        this.contrasenia = contrasenia;
         this.rol = rol;
     }
 
@@ -25,8 +25,8 @@ public class Usuario {
         return usuario;
     }
 
-    public String getContraseña() {
-        return contraseña;
+    public String getContrasenia() {
+        return contrasenia;
     }
 
     public String getRol() {
